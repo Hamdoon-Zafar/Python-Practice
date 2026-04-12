@@ -1,0 +1,5 @@
+[2026-04-12 08:15:22] INFO Booting up system...
+[2026-04-12 08:16:01] WARNING CPU load at 85%
+[2026-04-12 08:16:45] ERROR Failed to connect to database at 192.168.1.5
+[2026-04-12 08:17:00] INFO Retrying database connection
+[2026-04-12 08:17:30] ERROR Connection timeout. Max retries reached.
