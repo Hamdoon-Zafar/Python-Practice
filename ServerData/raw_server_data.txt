@@ -1,0 +1,13 @@
+# Server Initialization Sequence Started at 2026-04-12 00:00:01
+[2026-04-12 00:00:05] SYSTEM: Booting kernel...
+[2026-04-12 00:00:10] LOGIN_SUCCESS [user:admin_prime] ip:127.0.0.1
+[2026-04-12 00:01:22] LOGIN_FAILURE [user:bob_hacker] ip:185.22.1.44
+[2026-04-12 00:01:45] WARNING: Disk usage at 85%
+--- ROTATION MARKER ---
+[2026-04-12 00:02:10] LOGIN_SUCCESS [user:dev_alice] ip:10.0.0.15
+[2026-04-12 00:02:15] LOGIN_FAILURE [user:bob_hacker] ip:185.22.1.44
+[2026-04-12 00:03:01] LOGIN_FAILURE [user:guest_99] ip:192.168.1.100
+[2026-04-12 00:04:12] SYSTEM: Memory cleanup completed.
+[2026-04-12 00:05:55] LOGIN_FAILURE [user:admin] ip:45.33.21.11
+[2026-04-12 00:06:10] LOGIN_SUCCESS [user:dev_alice] ip:10.0.0.15
+# End of Current Batch
